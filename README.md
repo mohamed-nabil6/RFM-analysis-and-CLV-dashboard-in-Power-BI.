@@ -114,5 +114,5 @@ The CLV dashboard provides insights into the long-term value of customers, avera
 This CLV dashboard provides a comprehensive overview of customer value, purchasing behavior, and churn rates. It helps businesses identify trends, understand customer retention, and make informed decisions to optimize marketing strategies, improve customer engagement, and increase overall revenue.
 
 ### Explore the complete interactive dashboard by following this link :
-- [RFM analysis Dashboard](#)((https://app.powerbi.com/view?r=eyJrIjoiNTRhMzU3N2MtOTIyNS00YzYzLTkxZDktMzFkYmRiNDhiYmUwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=1d9906c90e025c70baca))  
-- [Customer lifetime value Dashboard]([(https://app.powerbi.com/view?r=eyJrIjoiNTRhMzU3N2MtOTIyNS00YzYzLTkxZDktMzFkYmRiNDhiYmUwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=2797b61c4a6a57ea4cd1))  
+- [RFM analysis Dashboard]((https://app.powerbi.com/view?r=eyJrIjoiNTRhMzU3N2MtOTIyNS00YzYzLTkxZDktMzFkYmRiNDhiYmUwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=1d9906c90e025c70baca) 
+- [Customer lifetime value Dashboard]([(https://app.powerbi.com/view?r=eyJrIjoiNTRhMzU3N2MtOTIyNS00YzYzLTkxZDktMzFkYmRiNDhiYmUwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=2797b61c4a6a57ea4cd1)
