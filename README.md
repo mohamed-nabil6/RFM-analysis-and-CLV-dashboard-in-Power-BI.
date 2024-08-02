@@ -115,4 +115,4 @@ This CLV dashboard provides a comprehensive overview of customer value, purchasi
 
 ### Explore the complete interactive dashboard by following this link :
 - [RFM analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTRhMzU3N2MtOTIyNS00YzYzLTkxZDktMzFkYmRiNDhiYmUwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=2797b61c4a6a57ea4cd1)
-- [[Customer lifetime value Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTRhMzU3N2MtOTIyNS00YzYzLTkxZDktMzFkYmRiNDhiYmUwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=2797b61c4a6a57ea4cd1)
+- [Customer lifetime value Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTRhMzU3N2MtOTIyNS00YzYzLTkxZDktMzFkYmRiNDhiYmUwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=2797b61c4a6a57ea4cd1)
